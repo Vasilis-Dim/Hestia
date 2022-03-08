@@ -13,7 +13,7 @@ Hestia is a simple android food app project for a University Lab created with Ko
 - Choose Theme (System Default)
 
 
-Features to be developed
+Features to be developed :
 
 - Map with every market that contains all the ingredients in the same store
 - Editable Ingredients list  
